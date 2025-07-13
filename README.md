@@ -61,9 +61,6 @@
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huntersourasis&repo=termux-server-setup&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" />
 </a>
 
-<a href="https://github.com/huntersourasis/password-list-generator">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huntersourasis&repo=password-list-generator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" />
-</a>
 
 ---
 
