@@ -5,7 +5,7 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C3BF7&center=true&vCenter=true&random=false&width=650&lines=Python+Developer+%7C+Cyber+Security+Enthusiast;Linux+User+%7C+MySQL+%7C+JavaScript+%7C+DBMS+%7C+Linux+Servers;Open+Source+Contributor+%7C+Backend+Engineer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C3BF7&center=true&vCenter=true&random=false&width=650&lines=Python+Developer+%7C+Cyber+Security+Enthusiast;%7C+MySQL+%7C+JavaScript+%7C+DBMS+%7C+Linux+Servers;Open+Source+Contributor+%7C+Backend+Engineer" alt="Typing SVG" />
     </a>
   </p>
 
@@ -19,12 +19,11 @@
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="280">
   
-I'm an ethical hacker, cybersecurity enthusiast, and Python developer focused on Termux tool development, system scripting, and open-source contributions.
 
 - 🔭 Currently working on **Termux daemons & automation**
 - 🌱 Exploring **reverse engineering, APIs, and system monitoring**
 - 💬 Ask me about **Python, Linux, C, Security Tools**
-- 📫 Reach me at: **sourasis@example.com**
+- 📫 Reach me at: **clashersourasis@gmail.com**
 - 🌍 Based in **India**
 - 🚀 Open to freelance and security research projects
 
